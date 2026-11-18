@@ -1,0 +1,90 @@
+{
+  "product": "2026 Topps Chrome Football",
+  "unofficialDisclaimer": "Unofficial fan guide. Not affiliated with Topps or EQL. Prices and rules checked November 17, 2026.",
+  "release": {
+    "datetimeISO": "2026-11-18T13:00:00-05:00",
+    "datetimeHuman": "Tuesday, November 18, 2026, 1:00 PM ET",
+    "timezoneNote": "1:00 PM ET is 12:00 PM CT, 10:00 AM PT, 6:00 PM GMT.",
+    "summary": "Hobby and Jumbo sell through an EQL draw. Hanger and Value sell on Topps.com, first come while supplies last."
+  },
+  "boxes": [
+    {
+      "name": "Hobby Box",
+      "price": "US$439.99",
+      "channel": "EQL draw",
+      "channelNote": "Free to enter. One entry per person. Maximum of 2 per customer. Verified live page.",
+      "url": "https://launches.topps.com/en-US/launch/2026-topps-chromer-football-hobby-box-pre-order",
+      "status": "live"
+    },
+    {
+      "name": "Jumbo Box",
+      "price": "US$789.99",
+      "channel": "EQL draw",
+      "channelNote": "Free to enter. One entry per person. Maximum of 2 per customer. Verified live page.",
+      "url": "https://launches.topps.com/en-US/launch/2026-topps-chromer-football-jumbo-box-pre-order",
+      "status": "live"
+    },
+    {
+      "name": "Hanger Box",
+      "price": "US$14.99",
+      "channel": "Topps.com pre-order",
+      "channelNote": "First come, while supplies last. Page shows 404 until launch. If it 404s at sale time, use the landing page.",
+      "url": "https://www.topps.com/products/2026-topps-chrome%C2%AE-football-hanger-box",
+      "status": "at-launch"
+    },
+    {
+      "name": "Value Box",
+      "price": "US$24.99",
+      "channel": "Topps.com pre-order",
+      "channelNote": "First come, while supplies last. Page shows 404 until launch. If it 404s at sale time, use the landing page.",
+      "url": "https://www.topps.com/products/2026-topps-chrome%C2%AE-football-value-box",
+      "status": "at-launch"
+    }
+  ],
+  "prep": [
+    "Create an EQL account at eql.com now. Finish the human verification steps. An account created at 12:58 is a coin flip.",
+    "Have shipping and payment details ready. The entry form asks for them at launch.",
+    "Check the card you will use: enough funds, no fraud flags. A selected order with a failed payment dies silently. EQL sends no failed-payment email.",
+    "Decide your limit before the window opens. One entry per person per product. Maximum 2 per customer.",
+    "Bookmark the landing page and both EQL launch pages. The Hanger and Value product pages return 404 until launch.",
+    "Read the rules: no discount codes, coupons, or rewards on EQL orders. No cancellation after the window closes."
+  ],
+  "saleTime": {
+    "eql": {
+      "title": "Hobby and Jumbo: the EQL draw",
+      "steps": [
+        "At 1:00 PM ET, open the Hobby or Jumbo launch page (links below).",
+        "Log in to your EQL account.",
+        "Enter shipping and payment details. Entry is free. No hold is placed on the card.",
+        "Verify the entry, then hit submit.",
+        "If selected, you get an email with an order confirmation. If not selected, you are not charged.",
+        "Make sure the payment method works. A selected order with a failed payment is rejected with no notice from EQL."
+      ]
+    },
+    "topps": {
+      "title": "Hanger and Value: Topps.com pre-order",
+      "steps": [
+        "At 1:00 PM ET, open the Hanger or Value product page (links below).",
+        "If the page returns 404, go to the landing page and use its buy buttons.",
+        "Add the box to the cart and check out immediately. This is first come, not a draw.",
+        "Speed matters. Supplies last, and they do not last long."
+      ]
+    }
+  },
+  "after": [
+    "Selected in the draw: you get two emails, one alert and one order confirmation. Fulfillment follows Topps terms.",
+    "Not selected: no charge, no hold. You may lose the chance to buy from this release.",
+    "After the window closes, entries cannot be cancelled. A confirmed entry is an agreement to buy if selected.",
+    "You can cancel your own entry any time BEFORE the window closes, from the launch page, logged in."
+  ],
+  "links": [
+    { "label": "Landing page (start here)", "url": "https://www.topps.com/pages/topps-chrome-football", "status": "live", "note": "Official page. Buy buttons appear here at launch." },
+    { "label": "Hobby Box — EQL draw, $439.99", "url": "https://launches.topps.com/en-US/launch/2026-topps-chromer-football-hobby-box-pre-order", "status": "live", "note": "Verified 200 on Nov 17." },
+    { "label": "Jumbo Box — EQL draw, $789.99", "url": "https://launches.topps.com/en-US/launch/2026-topps-chromer-football-jumbo-box-pre-order", "status": "live", "note": "Verified 200 on Nov 17." },
+    { "label": "Hanger Box — Topps.com, $14.99", "url": "https://www.topps.com/products/2026-topps-chrome%C2%AE-football-hanger-box", "status": "at-launch", "note": "Returns 404 until launch. URL is correct." },
+    { "label": "Value Box — Topps.com, $24.99", "url": "https://www.topps.com/products/2026-topps-chrome%C2%AE-football-value-box", "status": "at-launch", "note": "Returns 404 until launch. URL is correct." },
+    { "label": "Topps EQL FAQ", "url": "https://www.topps.com/pages/topps-eql-faq", "status": "live", "note": "Draw rules, cancellation, payment failures." },
+    { "label": "Checklist PDF (CDN)", "url": "https://cdn.shopify.com/s/files/1/0662/9749/5709/files/CheckList_26TCFB.pdf?v=1792444820", "status": "live", "note": "444 KB. Downloads clean." }
+  ],
+  "chases": "Rookie chases: Fernando Mendoza, Jeremiyah Love, Carnell Tate, Jordyn Tyson, Caleb Downs. Stars: Josh Allen, CeeDee Lamb, Jahmyr Gibbs, Myles Garrett. Insert sets include Kaiju, Tecmo, Ultra Violet, Helix, Glass Canvas, Madden 99 Club, Super Bowl at Night, and NFL Honors Gold Shield Autographs."
+}
