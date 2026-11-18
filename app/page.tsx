@@ -27,9 +27,10 @@ function Window({ id, title, children }: Readonly<{
 }
 
 function StatusBadge({ status }: Readonly<{ status: string }>) {
+  const label = status === "live" ? "LIVE" : status === "closed" ? "CLOSED" : "AT LAUNCH";
   return (
-    <span className={`landing-badge${status === "live" ? " is-live" : ""}`}>
-      {status === "live" ? "LIVE" : "AT LAUNCH"}
+    <span className={`landing-badge${status === "live" ? " is-live" : status === "closed" ? " is-closed" : ""}`}>
+      {label}
     </span>
   );
 }

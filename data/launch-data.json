@@ -12,17 +12,17 @@
       "name": "Hobby Box",
       "price": "US$439.99",
       "channel": "EQL draw",
-      "channelNote": "Free to enter. One entry per person. Maximum of 2 per customer. Verified live page.",
+      "channelNote": "The EQL page live now is the OLD draw (closed October 19, 2026). A NEW EQL launch opens November 18 at 1:00 PM ET; its entry link will appear on the landing page.",
       "url": "https://launches.topps.com/en-US/launch/2026-topps-chromer-football-hobby-box-pre-order",
-      "status": "live"
+      "status": "closed"
     },
     {
       "name": "Jumbo Box",
       "price": "US$789.99",
       "channel": "EQL draw",
-      "channelNote": "Free to enter. One entry per person. Maximum of 2 per customer. Verified live page.",
+      "channelNote": "The EQL page live now is the OLD draw (closed October 19, 2026). A NEW EQL launch opens November 18 at 1:00 PM ET; its entry link will appear on the landing page.",
       "url": "https://launches.topps.com/en-US/launch/2026-topps-chromer-football-jumbo-box-pre-order",
-      "status": "live"
+      "status": "closed"
     },
     {
       "name": "Hanger Box",
@@ -53,7 +53,8 @@
     "eql": {
       "title": "Hobby and Jumbo: the EQL draw",
       "steps": [
-        "At 1:00 PM ET, open the Hobby or Jumbo launch page (links below).",
+        "At 1:00 PM ET, open the landing page and follow its EQL links. The NEW entry pages go live then.",
+        "The EQL pages indexed today are the closed October 19 draw. Do not enter there.",
         "Log in to your EQL account.",
         "Enter shipping and payment details. Entry is free. No hold is placed on the card.",
         "Verify the entry, then hit submit.",
@@ -79,8 +80,8 @@
   ],
   "links": [
     { "label": "Landing page (start here)", "url": "https://www.topps.com/pages/topps-chrome-football", "status": "live", "note": "Official page. Buy buttons appear here at launch." },
-    { "label": "Hobby Box — EQL draw, $439.99", "url": "https://launches.topps.com/en-US/launch/2026-topps-chromer-football-hobby-box-pre-order", "status": "live", "note": "Verified 200 on Nov 17." },
-    { "label": "Jumbo Box — EQL draw, $789.99", "url": "https://launches.topps.com/en-US/launch/2026-topps-chromer-football-jumbo-box-pre-order", "status": "live", "note": "Verified 200 on Nov 17." },
+    { "label": "Hobby Box — EQL draw, $439.99", "url": "https://launches.topps.com/en-US/launch/2026-topps-chromer-football-hobby-box-pre-order", "status": "closed", "note": "OLD draw, closed October 19, 2026. The NEW EQL entry page appears on the landing page at 1pm ET Nov 18." },
+    { "label": "Jumbo Box — EQL draw, $789.99", "url": "https://launches.topps.com/en-US/launch/2026-topps-chromer-football-jumbo-box-pre-order", "status": "closed", "note": "OLD draw, closed October 19, 2026. The NEW EQL entry page appears on the landing page at 1pm ET Nov 18." },
     { "label": "Hanger Box — Topps.com, $14.99", "url": "https://www.topps.com/products/2026-topps-chrome%C2%AE-football-hanger-box", "status": "at-launch", "note": "Returns 404 until launch. URL is correct." },
     { "label": "Value Box — Topps.com, $24.99", "url": "https://www.topps.com/products/2026-topps-chrome%C2%AE-football-value-box", "status": "at-launch", "note": "Returns 404 until launch. URL is correct." },
     { "label": "Topps EQL FAQ", "url": "https://www.topps.com/pages/topps-eql-faq", "status": "live", "note": "Draw rules, cancellation, payment failures." },
