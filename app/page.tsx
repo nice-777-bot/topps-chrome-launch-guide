@@ -64,7 +64,7 @@ export default function Home() {
           <Countdown datetimeISO={data.release.datetimeISO} />
           <div className="launch-action">
             <p>The clock is doing its part.</p>
-            <a className="button primary" href={landingPage.url}>Open launch page</a>
+            <a className="button primary" href={landingPage.url} target="_blank" rel="noopener noreferrer">Open launch page</a>
           </div>
         </Window>
 
@@ -78,7 +78,7 @@ export default function Home() {
                   <span>{box.channel}</span><StatusBadge status={box.status} />
                 </div>
                 <p>{box.channelNote}</p>
-                <a className="url-link" href={box.url}>{box.url}</a>
+                <a className="url-link" href={box.url} target="_blank" rel="noopener noreferrer">{box.url}</a>
               </li>
             ))}
           </ul>
@@ -124,11 +124,11 @@ export default function Home() {
                   <span className="file-icon" aria-hidden="true" />
                   <div className="file-details">
                     <div className="file-title">
-                      <a href={link.url}>{link.label}</a>
+                      <a href={link.url} target="_blank" rel="noopener noreferrer">{link.label}</a>
                       <StatusBadge status={link.status} />
                     </div>
                     <p className="file-note">{link.note}</p>
-                    <a className="url-link" href={link.url}>{link.url}</a>
+                    <a className="url-link" href={link.url} target="_blank" rel="noopener noreferrer">{link.url}</a>
                   </div>
                 </li>
               ))}
